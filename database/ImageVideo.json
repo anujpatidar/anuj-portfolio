@@ -1,0 +1,68 @@
+[
+  {
+    "url": "/gallery/booze.jpg",
+    "date": "8 July 2021",
+    "location": "Booze and Blood",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/gallery/hope1.jpg",
+    "date": "22 Nov 2021",
+    "location": "HOPE",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/gallery/hope2.jpg",
+    "date": "5 Dec 2021",
+    "location": "YOUR OTHER HALF",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/gallery/maya.jpg",
+    "date": "14 Dec 2021",
+    "location": "MAYA",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/gallery/god.jpg",
+    "date": "1 Aug 2021",
+    "location": "Lord Ethereum",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/sol.jpg",
+    "date": "21 Sep 2021",
+    "location": "Lord Cardano",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/camp4.jpg",
+    "date": "30 Sep 2021",
+    "location": "Thinking Off",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/gallery/camp6.jpg",
+    "date": "4 Oct 2021",
+    "location": "Bridges",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/camp7.jpg",
+    "date": "1 Oct 2021",
+    "location": "Finding the Way",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/camp8.jpg",
+    "date": "4 Oct 2021",
+    "location": "Bridges",
+    "direction": "vertical"
+  }
+  
+]

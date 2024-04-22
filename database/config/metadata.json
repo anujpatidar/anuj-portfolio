@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Anuj",
+    "title": "Anuj Patidar - Portfolio",
+    "description": "I develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "timeZone": "America/Los_Angeles",
+    "locale": "en-US"
+  },
+  "personal": {
+    "name": "Anuj",
+    "surname": "Patidar",
+    "role": "Creative Developer",
+    "email": "anujpatidar88@gmail.com",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "username": "@anujpatidar",
+    "resumeURL": "https://drive.google.com/file/d/1UoYSk5TBzXcpxnVFtGTesNVMZkCjAfWe/view?usp=drive_link"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/_anujpatidar/",
+    "linkedin": "https://www.linkedin.com/in/anujpatidar88/",
+    "github": "https://github.com/anujpatidar/",
+    "youtube": "https://www.youtube.com/channel/UCZMy11s-Rjpbq4kAb6nzRFA/",
+    "opensea": "https://opensea.io/Psd_artist",
+    "page": "https://www.instagram.com/psd_artist/"
+  }
+  
+}

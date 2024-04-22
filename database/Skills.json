@@ -1,0 +1,86 @@
+[
+  {
+    "icon": "IconJS",
+    "image": "/icon/icon-js.svg",
+    "title": "JavaScript",
+    "subtitle": "Vanilla",
+    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+  },
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "Next.js, Vercel",
+    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/CSS3.svg",
+    "title": "CSS",
+    "subtitle": "Animations, Designs",
+    "description": "Transforming code into stunning designs, CSS weaves magic in just a few lines. With elegance and precision, CSS crafts web pages into immersive experiences."
+  },
+  {
+    "icon": "IconHTML",
+    "image": "/icon/icon-html.svg",
+    "title": "HTML",
+    "subtitle": "Semantic Markup",
+    "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
+  },
+  {
+    "icon": "IconProgramming",
+    "image": "/icon/Python.svg",
+    "title": "Python",
+    "subtitle": "Programming",
+    "description": "From automation scripts to data analysis, Python powers diverse applications with simplicity and efficiency."
+  },
+  {
+    "icon": "IconNode",
+    "image": "/icon/Node.svg",
+    "title": "Node.js",
+    "subtitle": "Web Accessibility",
+    "description": "Accessibility is a must. I ensure everyone can use what I create, focusing on keyboard navigation and screen reader compatibility."
+  },
+  {
+    "icon": "IconMongodb",
+    "image": "/icon/mongodb-icon.svg",
+    "title": "Database",
+    "subtitle": "Mongodb",
+    "description": "MongoDB accelerates data-driven insights with its flexible NoSQL database, empowering scalable and efficient storage solutions."
+  },
+  {
+    "icon": "IconSql",
+    "image": "/icon/mysql-official.svg",
+    "title": "Database",
+    "subtitle": "MySQL",
+    "description": "MySQL fuels dynamic websites and applications with its robust database management capabilities, ensuring seamless data storage and retrieval."
+  },
+  {
+    "icon": "IconGit",
+    "image": "/icon/github-mark.svg",
+    "title": "Github",
+    "subtitle": "Deploy and Development",
+    "description": "GitHub's deployment features streamline the process of pushing code changes to production, ensuring rapid and efficient deployment workflows."
+  },
+  {
+    "icon": "IconPhotoshop",
+    "image": "/icon/photoshop.svg",
+    "title": "Adobe Photoshop",
+    "subtitle": "Graphic designing",
+    "description": "Mastering Photoshop unlocks a world of creative possibilities, enabling stunning photo editing, graphic design, and digital artistry."
+  },
+  {
+    "icon": "IconPremiere",
+    "image": "/icon/premiere.svg",
+    "title": "Premiere Pro",
+    "subtitle": "Video Editing",
+    "description": "Premiere Pro revolutionizes video editing with its intuitive interface and powerful features, making the creation of professional-grade content effortless."
+  },
+  {
+    "icon": "IconNext",
+    "image": "/icon/Nextjs-logo.svg",
+    "title": "Next.js",
+    "subtitle": "Development",
+    "description": "Next.js simplifies server-side rendering and static site generation for React applications, boosting performance and SEO."
+  }
+]

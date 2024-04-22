@@ -1,0 +1,48 @@
+[
+  {
+    "position": "Programming Essentials in Python",
+    "company": "Cisco Netacad",
+    "duration": "December 2022",
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "CyberOps Associate",
+    "company": "Cisco Netacad",
+    "duration": "July 2023",
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  },
+  {
+    "position": "Full Stack Developement",
+    "company": "Sheryians Coding School",
+    "duration": "April 2022 - Aug 2023",
+    "color": {
+      "h": "240",
+      "s": "100%",
+      "l": "45%"
+    }
+  },
+  {
+    "position": "Cloud Foundation",
+    "company": "Amazon AWS Academy",
+    "duration": "January 2022",
+    "location": "On-site",
+    "image": "/company/softanka.svg",
+    "url": "https://www.playanka.com/",
+    "responsibilities": [
+      "Designed and developed themes for game markets"
+    ],
+    "color": {
+      "h": "210",
+      "s": "0%",
+      "l": "90%"
+    }
+  }
+]

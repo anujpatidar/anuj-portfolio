@@ -1,0 +1,83 @@
+[
+  {
+    "url": "/arts/couple.jpg",
+    "date": "16 May 2022",
+    "location": "Blind Love",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/lonely.jpg",
+    "date": "23 Oct 2020",
+    "location": "Noah's Loneliness",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/think.jpg",
+    "date": "16 Aug 2020",
+    "location": "Just Thinking",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/fox.jpg",
+    "date": "2 Aug 2020",
+    "location": "Sun and Fox",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/view.jpg",
+    "date": "19 June 2021",
+    "location": "High up in the Sky",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/clouds.jpg",
+    "date": "13 Sept 2020",
+    "location": "Praying on Clouds",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/clean.jpg",
+    "date": "4 Aug 2020",
+    "location": "Wall Art",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/fly.jpg",
+    "date": "19 Aug 2020",
+    "location": "Dream World",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/depressed.jpg",
+    "date": "8 oct 2020",
+    "location": "Depression",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/devil.jpg",
+    "date": "17 Sept 2020",
+    "location": "Devil",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/arts/portal.jpg",
+    "date": "6 Aug 2020",
+    "location": "Portal",
+    "direction": "vertical"
+  },
+  {
+    "url": "/arts/child.jpg",
+    "date": "27 Oct 2020",
+    "location": "You and Me",
+    "direction": "vertical"
+  },
+  
+  {
+    "url": "/arts/parrot.jpg",
+    "date": "3 Oct 2020",
+    "location": "Crying Bird",
+    "direction": "vertical"
+  }
+
+]
